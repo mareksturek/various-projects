@@ -3,5 +3,6 @@
 # Table of Content
 
 - Dice Rolling
+- Guessing Game
 
   
