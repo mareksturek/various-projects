@@ -2,7 +2,13 @@
 
 # Table of Content
 
-- Dice Rolling
+- Rolling Dice
+
 - Guessing Game
+
+- Active Volcano
+
+- Face Detection
+
 
   
