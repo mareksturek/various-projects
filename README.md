@@ -10,5 +10,7 @@
 
 - Face Detection
 
+- COVID-19 Analysis
+
 
   
