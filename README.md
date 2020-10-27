@@ -12,5 +12,7 @@
 
 - COVID-19 Analysis
 
+- Insight Challenge
+
 
   
