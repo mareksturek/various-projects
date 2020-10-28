@@ -10,9 +10,11 @@
 
 - Face Detection
 
-- COVID-19 Analysis
-
 - Insight Challenge
 
+- Wordlometer Web Scrapping
 
+- COVID-19 Analysis
+
+- YouTube with EDA
   
