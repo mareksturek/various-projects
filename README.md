@@ -12,7 +12,7 @@
 
 - Insight Challenge
 
-- Wordlometer Web Scrapping
+- Web Scrapping
 
 - COVID-19 Analysis
 
