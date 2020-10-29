@@ -16,5 +16,5 @@
 
 - COVID-19 Analysis
 
-- YouTube with EDA
+- YouTube Comments
   
