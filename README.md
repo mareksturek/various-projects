@@ -18,5 +18,5 @@
 
 - YouTube Comments
 
-- IMDB Sentiment Analysis
+- IMDb Sentiment Analysis
   
