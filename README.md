@@ -17,4 +17,6 @@
 - COVID-19 Analysis
 
 - YouTube Comments
+
+- IMDB Sentiment Analysis
   
