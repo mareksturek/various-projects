@@ -8,6 +8,8 @@
 
 - Active Volcano
 
+- Lexicon Dictionary
+
 - Face Detection
 
 - Insight Challenge
