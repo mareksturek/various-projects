@@ -21,4 +21,6 @@
 - YouTube Comments
 
 - IMDb Sentiment Analysis
+
+- SQL Analysis
   
