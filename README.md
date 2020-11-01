@@ -2,25 +2,27 @@
 
 # Table of Content
 
-- Rolling Dice
+- **Various Projects**
 
-- Guessing Game
+    - [Rolling Dice](https://github.com/mareksturek/various-projects/blob/main/01_rolling_dice.ipynb)
 
-- Active Volcano
+    - [Guessing Game](https://github.com/mareksturek/various-projects/blob/main/02_guessing_game.ipynb)
 
-- Lexicon Dictionary
+    - [Active Volcano](https://github.com/mareksturek/various-projects/blob/main/03_active_volcano.ipynb)
 
-- Face Detection
+    - [Lexicon Dictionary](https://github.com/mareksturek/various-projects/blob/main/04_lexicon_dictionary.ipynb)
 
-- Insight Challenge
+    - [Face Detection](https://github.com/mareksturek/various-projects/blob/main/05_face_detection.ipynb)
 
-- Web Scrapping
+    - [Insight Challenge](https://github.com/mareksturek/various-projects/blob/main/06_insight_challenge.ipynb)
 
-- COVID-19 Analysis
+    - [Web Scrapping](https://github.com/mareksturek/various-projects/blob/main/07_web_scrapping.ipynb)
 
-- YouTube Comments
+    - [COVID-19 Analysis](https://github.com/mareksturek/various-projects/blob/main/08_covid-19_analysis.ipynb)
 
-- IMDb Sentiment Analysis
+    - [YouTube Comments](https://github.com/mareksturek/various-projects/blob/main/09_youtube_comments.ipynb)
 
-- SQL Analysis
+    - [IMDb Sentiment Analysis](https://github.com/mareksturek/various-projects/blob/main/10_imdb_sentiment_analysis.ipynb)
+
+    - [SQL Analysis](https://github.com/mareksturek/various-projects/blob/main/11_sql_analysis.ipynb)
   
