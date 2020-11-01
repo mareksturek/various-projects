@@ -26,3 +26,4 @@
 
     - [SQL Analysis](https://github.com/mareksturek/various-projects/blob/main/11_sql_analysis.ipynb)
   
+    - [Books with Spark](https://github.com/mareksturek/various-projects/blob/main/12_books_with_spark.ipynb)
