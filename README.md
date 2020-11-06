@@ -20,12 +20,10 @@
 
     - [COVID-19 Analysis](https://github.com/mareksturek/various-projects/blob/main/08_covid-19_analysis.ipynb)
 
-    - [YouTube Comments](https://github.com/mareksturek/various-projects/blob/main/09_youtube_comments.ipynb)
+    - [IMDb Sentiment Analysis](https://github.com/mareksturek/various-projects/blob/main/09_imdb_sentiment_analysis.ipynb)
 
-    - [IMDb Sentiment Analysis](https://github.com/mareksturek/various-projects/blob/main/10_imdb_sentiment_analysis.ipynb)
-
-    - [SQL Analysis](https://github.com/mareksturek/various-projects/blob/main/11_sql_analysis.ipynb)
+    - [SQL Analysis](https://github.com/mareksturek/various-projects/blob/main/10_sql_analysis.ipynb)
   
-    - [Books with Spark](https://github.com/mareksturek/various-projects/blob/main/12_books_with_spark.ipynb)
+    - [Books with Spark](https://github.com/mareksturek/various-projects/blob/main/11_books_with_spark.ipynb)
     
-    - [Time Series](https://github.com/mareksturek/various-projects/blob/main/13_time_series.ipynb)
+    - [Time Series](https://github.com/mareksturek/various-projects/blob/main/12_time_series.ipynb)
