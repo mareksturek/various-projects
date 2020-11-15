@@ -27,3 +27,5 @@
     - [Books with Spark](https://github.com/mareksturek/various-projects/blob/main/11_books_with_spark.ipynb)
     
     - [Time Series](https://github.com/mareksturek/various-projects/blob/main/12_time_series.ipynb)
+    
+    - [MongoDB](https://github.com/mareksturek/various-projects/blob/main/13_mongodb_simple.ipynb)
