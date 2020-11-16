@@ -28,4 +28,6 @@
     
     - [Time Series](https://github.com/mareksturek/various-projects/blob/main/12_time_series.ipynb)
     
-    - [MongoDB](https://github.com/mareksturek/various-projects/blob/main/13_mongodb_simple.ipynb)
+    - [MongoDB Simple](https://github.com/mareksturek/various-projects/blob/main/13_mongodb_simple.ipynb)
+    
+    - [H2o with AutoML](https://github.com/mareksturek/various-projects/blob/main/14_h2o_automl.ipynb)
