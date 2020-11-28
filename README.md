@@ -19,3 +19,4 @@
     - [MongoDB Simple](https://github.com/mareksturek/various-projects/blob/main/notebooks/13_mongodb_simple.ipynb)    
     - [H2o with AutoML](https://github.com/mareksturek/various-projects/blob/main/notebooks/14_h2o_automl.ipynb)
     - [Temperature Conversion](https://github.com/mareksturek/various-projects/blob/main/notebooks/15_temperature_conversion.ipynb)
+    - [Ipygany Examples](https://github.com/mareksturek/various-projects/blob/main/notebooks/16_ipygany_examples.ipynb)
