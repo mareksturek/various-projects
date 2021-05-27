@@ -6,7 +6,7 @@
 
     - [Rolling Dice](https://github.com/mareksturek/various-projects/blob/main/notebooks/01_rolling_dice.ipynb)
     - [Guessing Game](https://github.com/mareksturek/various-projects/blob/main/notebooks/02_guessing_game.ipynb)
-    - [Active Volcano](https://github.com/mareksturek/various-projects/blob/main/notebooks/03_active_volcano.ipynb)
+    - [Active Volcanoes](https://github.com/mareksturek/various-projects/blob/main/notebooks/03_active_volcano.ipynb)
     - [Lexicon Dictionary](https://github.com/mareksturek/various-projects/blob/main/notebooks/04_lexicon_dictionary.ipynb)
     - [Face Detection](https://github.com/mareksturek/various-projects/blob/main/notebooks/05_face_detection.ipynb)
     - [Insight Challenge](https://github.com/mareksturek/various-projects/blob/main/notebooks/06_insight_challenge.ipynb)
