@@ -14,7 +14,7 @@
     - [COVID-19 Analysis](https://github.com/mareksturek/various-projects/blob/main/notebooks/08_covid-19_analysis.ipynb)
     - [IMDb Sentiment Analysis](https://github.com/mareksturek/various-projects/blob/main/notebooks/09_imdb_sentiment_analysis.ipynb)
     - [SQL Analysis](https://github.com/mareksturek/various-projects/blob/main/notebooks/10_sql_analysis.ipynb)  
-    - [Books Text with Spark](https://github.com/mareksturek/various-projects/blob/main/notebooks/11_books_with_spark.ipynb)  
+    - [Text with Spark](https://github.com/mareksturek/various-projects/blob/main/notebooks/11_books_with_spark.ipynb)  
     - [Various Time Series](https://github.com/mareksturek/various-projects/blob/main/notebooks/12_time_series.ipynb)    
     - [MongoDB Simplified](https://github.com/mareksturek/various-projects/blob/main/notebooks/13_mongodb_simple.ipynb)    
     - [H2o with AutoML](https://github.com/mareksturek/various-projects/blob/main/notebooks/14_h2o_automl.ipynb)
