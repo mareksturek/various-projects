@@ -21,3 +21,4 @@
     - [Temperature Conversion](https://github.com/mareksturek/various-projects/blob/main/notebooks/15_temperature_conversion.ipynb)
     - [Ipygany Examples](https://github.com/mareksturek/various-projects/blob/main/notebooks/16_ipygany_examples.ipynb)
     - [KInIT Word Game](https://github.com/mareksturek/various-projects/blob/main/notebooks/17_word_game.ipynb)
+    - [Yellow Pages](https://github.com/mareksturek/various-projects/blob/main/notebooks/18_yellow_pages.ipynb)
